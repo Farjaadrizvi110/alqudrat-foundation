@@ -1,0 +1,20 @@
+{
+  "name": "alqudrat-foundation",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "framer-motion": "^10.12.16",
+    "next": "latest",
+    "postcss": "^8.4.21",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "^5.5.0",
+    "tailwindcss": "^3.3.2"
+  }
+}
